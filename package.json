@@ -1,0 +1,8 @@
+{
+  "name": "ashish-creative-portfolio",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Ashish's cinematic creative portfolio with Ash Bot and email contact form",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"nodemailer": "^6.9.16"}
+}
